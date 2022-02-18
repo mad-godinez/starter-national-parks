@@ -49,3 +49,4 @@ const parks = [
     rating: 4.7,
   },
 ];
+// module.export = parks;
